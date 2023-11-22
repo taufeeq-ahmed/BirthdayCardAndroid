@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BirthdayCardAndroid</string>
+    <string name="happy_birthday_android">Happy Birthday android !!</string>
+    <string name="ios">-- ios</string>
 </resources>
